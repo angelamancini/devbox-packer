@@ -82,7 +82,9 @@
         "scripts/common/vagrant.sh",
         "scripts/common/vmtools.sh",
         "scripts/centos/cleanup.sh",
-        "scripts/common/minimize.sh"
+        "scripts/common/minimize.sh",
+        "scripts/install/instal_git.sh",
+        "scripts/install/install_tmux.sh"
       ],
       "type": "shell"
     }
