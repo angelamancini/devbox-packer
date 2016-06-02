@@ -9,7 +9,7 @@
     "cpus": "1",
     "disk_size": "40960",
     "git_revision": "__unknown_git_revision__",
-    "headless": "",
+    "headless": "true",
     "http_proxy": "{{env `http_proxy`}}",
     "https_proxy": "{{env `https_proxy`}}",
     "iso_checksum": "907e5755f824c5848b9c8efbb484f3cd945e93faa024bad6ba875226f9683b16",
@@ -83,8 +83,12 @@
         "scripts/common/vmtools.sh",
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh",
+        "scripts/install/install-epel.sh",
         "scripts/install/install_git.sh",
-        "scripts/install/install_tmux.sh"
+        "scripts/install/install_tmux.sh",
+        "scripts/install/install_psql.sh",
+        "scripts/install/install_rvm_and_ruby",
+        "scripts/install/final_touches.sh"
       ],
       "type": "shell"
     }
