@@ -86,8 +86,6 @@
         "scripts/install/install-epel.sh",
         "scripts/install/install_git.sh",
         "scripts/install/install_tmux.sh",
-        "scripts/install/install_psql.sh",
-        "scripts/install/install_rvm_and_ruby.sh",
         "scripts/install/final_touches.sh"
       ],
       "type": "shell"
