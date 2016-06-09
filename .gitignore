@@ -1,3 +1,5 @@
 *.DS_Store
-packer-cache
-packer-cache/*
+packer_cache
+packer_cache/*
+packer-centos*
+*.box

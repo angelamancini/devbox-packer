@@ -69,6 +69,11 @@
   ],
   "provisioners": [
     {
+      "type": "file",
+      "source": "files/",
+      "destination": "/tmp"
+    },
+    {
       "environment_vars": [
         "HOME_DIR=/home/vagrant",
         "http_proxy={{user `http_proxy`}}",
@@ -84,7 +89,6 @@
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh",
         "scripts/install/install-epel.sh",
-        "scripts/install/install_git.sh",
         "scripts/install/install_tmux.sh",
         "scripts/install/final_touches.sh"
       ],
