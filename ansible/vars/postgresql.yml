@@ -1,0 +1,28 @@
+postgresql_admin_user: "postgres"
+postgresql_default_auth_method: "trust"
+
+postgresql_databases:
+  - name: vagrant
+    hstore: no
+
+postgresql_users:
+  - name: vagrant
+    pass: supersecurepassword
+    encrypted: no
+
+postgresql_user_privileges:
+  - name: vagrant
+    db: vagrant
+    priv: "ALL"
+
+postgresql_user_object_privileges:
+  - name: vagrant   # user name
+    db: vagrant     # database
+    type: table            # type of db object on which to set privilege
+    priv: ALL              # list of privileges (e.g. INSERT,SELECT)
+    objs: 'ALL_IN_SCHEMA'  # list of db objects on which to set privilege
+  - name: vagrant   # user name
+    db: vagrant     # database
+    type: sequence         # type of db object on which to set privilege
+    priv: ALL              # list of privileges (e.g. INSERT,SELECT)
+    objs: 'ALL_IN_SCHEMA'  # list of db objects on which to set privilege

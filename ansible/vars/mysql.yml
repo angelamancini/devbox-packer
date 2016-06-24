@@ -1,0 +1,11 @@
+---
+mysql_root_password: supersecurepassword
+mysql_databases:
+  - name: vagrant
+    encoding: latin1
+    collation: latin1_general_ci
+mysql_users:
+  - name: vagrant
+    host: "%"
+    password: supersecurepassword
+    priv: "example_db.*:ALL"

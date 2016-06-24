@@ -1,0 +1,991 @@
+[1;32mvirtualbox-iso output will be in this color.[0m
+
+[1;32m==> virtualbox-iso: Downloading or copying Guest additions[0m
+[0;32m    virtualbox-iso: Downloading or copying: file:///Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso[0m
+[1;32m==> virtualbox-iso: Downloading or copying ISO[0m
+[0;32m    virtualbox-iso: Downloading or copying: http://mirrors.kernel.org/centos/7.2.1511/isos/x86_64/CentOS-7-x86_64-DVD-1511.iso[0m
+[0;32m    virtualbox-iso: Download progress: 0%[0m
+[0;32m    virtualbox-iso: Download progress: 1%[0m
+[0;32m    virtualbox-iso: Download progress: 2%[0m
+[0;32m    virtualbox-iso: Download progress: 3%[0m
+[0;32m    virtualbox-iso: Download progress: 3%[0m
+[0;32m    virtualbox-iso: Download progress: 4%[0m
+[0;32m    virtualbox-iso: Download progress: 4%[0m
+[0;32m    virtualbox-iso: Download progress: 5%[0m
+[0;32m    virtualbox-iso: Download progress: 5%[0m
+[0;32m    virtualbox-iso: Download progress: 6%[0m
+[0;32m    virtualbox-iso: Download progress: 7%[0m
+[0;32m    virtualbox-iso: Download progress: 8%[0m
+[0;32m    virtualbox-iso: Download progress: 9%[0m
+[0;32m    virtualbox-iso: Download progress: 10%[0m
+[0;32m    virtualbox-iso: Download progress: 11%[0m
+[0;32m    virtualbox-iso: Download progress: 12%[0m
+[0;32m    virtualbox-iso: Download progress: 12%[0m
+[0;32m    virtualbox-iso: Download progress: 13%[0m
+[0;32m    virtualbox-iso: Download progress: 14%[0m
+[0;32m    virtualbox-iso: Download progress: 15%[0m
+[0;32m    virtualbox-iso: Download progress: 16%[0m
+[0;32m    virtualbox-iso: Download progress: 17%[0m
+[0;32m    virtualbox-iso: Download progress: 19%[0m
+[0;32m    virtualbox-iso: Download progress: 20%[0m
+[0;32m    virtualbox-iso: Download progress: 21%[0m
+[0;32m    virtualbox-iso: Download progress: 22%[0m
+[0;32m    virtualbox-iso: Download progress: 22%[0m
+[0;32m    virtualbox-iso: Download progress: 24%[0m
+[0;32m    virtualbox-iso: Download progress: 25%[0m
+[0;32m    virtualbox-iso: Download progress: 26%[0m
+[0;32m    virtualbox-iso: Download progress: 27%[0m
+[0;32m    virtualbox-iso: Download progress: 28%[0m
+[0;32m    virtualbox-iso: Download progress: 30%[0m
+[0;32m    virtualbox-iso: Download progress: 30%[0m
+[0;32m    virtualbox-iso: Download progress: 31%[0m
+[0;32m    virtualbox-iso: Download progress: 32%[0m
+[0;32m    virtualbox-iso: Download progress: 33%[0m
+[0;32m    virtualbox-iso: Download progress: 34%[0m
+[0;32m    virtualbox-iso: Download progress: 35%[0m
+[0;32m    virtualbox-iso: Download progress: 37%[0m
+[0;32m    virtualbox-iso: Download progress: 38%[0m
+[0;32m    virtualbox-iso: Download progress: 39%[0m
+[0;32m    virtualbox-iso: Download progress: 40%[0m
+[0;32m    virtualbox-iso: Download progress: 41%[0m
+[0;32m    virtualbox-iso: Download progress: 43%[0m
+[0;32m    virtualbox-iso: Download progress: 44%[0m
+[0;32m    virtualbox-iso: Download progress: 45%[0m
+[0;32m    virtualbox-iso: Download progress: 47%[0m
+[0;32m    virtualbox-iso: Download progress: 48%[0m
+[0;32m    virtualbox-iso: Download progress: 49%[0m
+[0;32m    virtualbox-iso: Download progress: 50%[0m
+[0;32m    virtualbox-iso: Download progress: 52%[0m
+[0;32m    virtualbox-iso: Download progress: 53%[0m
+[0;32m    virtualbox-iso: Download progress: 54%[0m
+[0;32m    virtualbox-iso: Download progress: 55%[0m
+[0;32m    virtualbox-iso: Download progress: 57%[0m
+[0;32m    virtualbox-iso: Download progress: 58%[0m
+[0;32m    virtualbox-iso: Download progress: 59%[0m
+[0;32m    virtualbox-iso: Download progress: 60%[0m
+[0;32m    virtualbox-iso: Download progress: 62%[0m
+[0;32m    virtualbox-iso: Download progress: 63%[0m
+[0;32m    virtualbox-iso: Download progress: 64%[0m
+[0;32m    virtualbox-iso: Download progress: 66%[0m
+[0;32m    virtualbox-iso: Download progress: 67%[0m
+[0;32m    virtualbox-iso: Download progress: 68%[0m
+[0;32m    virtualbox-iso: Download progress: 69%[0m
+[0;32m    virtualbox-iso: Download progress: 70%[0m
+[0;32m    virtualbox-iso: Download progress: 71%[0m
+[0;32m    virtualbox-iso: Download progress: 72%[0m
+[0;32m    virtualbox-iso: Download progress: 73%[0m
+[0;32m    virtualbox-iso: Download progress: 74%[0m
+[0;32m    virtualbox-iso: Download progress: 76%[0m
+[0;32m    virtualbox-iso: Download progress: 77%[0m
+[0;32m    virtualbox-iso: Download progress: 78%[0m
+[0;32m    virtualbox-iso: Download progress: 79%[0m
+[0;32m    virtualbox-iso: Download progress: 81%[0m
+[0;32m    virtualbox-iso: Download progress: 82%[0m
+[0;32m    virtualbox-iso: Download progress: 83%[0m
+[0;32m    virtualbox-iso: Download progress: 84%[0m
+[0;32m    virtualbox-iso: Download progress: 86%[0m
+[0;32m    virtualbox-iso: Download progress: 87%[0m
+[0;32m    virtualbox-iso: Download progress: 88%[0m
+[0;32m    virtualbox-iso: Download progress: 89%[0m
+[0;32m    virtualbox-iso: Download progress: 91%[0m
+[0;32m    virtualbox-iso: Download progress: 92%[0m
+[0;32m    virtualbox-iso: Download progress: 93%[0m
+[0;32m    virtualbox-iso: Download progress: 95%[0m
+[0;32m    virtualbox-iso: Download progress: 96%[0m
+[0;32m    virtualbox-iso: Download progress: 97%[0m
+[0;32m    virtualbox-iso: Download progress: 98%[0m
+[0;32m    virtualbox-iso: Download progress: 99%[0m
+[0;32m    virtualbox-iso: Download progress: 100%[0m
+[0;32m    virtualbox-iso: Download progress: 100%[0m
+[0;32m    virtualbox-iso: Download progress: 100%[0m
+[0;32m    virtualbox-iso: Download progress: 100%[0m
+[1;32m==> virtualbox-iso: Starting HTTP server on port 8421[0m
+[1;32m==> virtualbox-iso: Creating virtual machine...[0m
+[1;32m==> virtualbox-iso: Creating hard drive...[0m
+[1;32m==> virtualbox-iso: Creating forwarded port mapping for SSH (host port 3739)[0m
+[1;32m==> virtualbox-iso: Executing custom VBoxManage commands...[0m
+[0;32m    virtualbox-iso: Executing: modifyvm centos-7.2-x86_64 --memory 512[0m
+[0;32m    virtualbox-iso: Executing: modifyvm centos-7.2-x86_64 --cpus 1[0m
+[1;32m==> virtualbox-iso: Starting the virtual machine...[0m
+[0;32m    virtualbox-iso: WARNING: The VM will be started in headless mode, as configured.
+    virtualbox-iso: In headless mode, errors during the boot sequence or OS setup
+    virtualbox-iso: won't be easily visible. Use at your own discretion.[0m
+[1;32m==> virtualbox-iso: Waiting 10s for boot...[0m
+[1;32m==> virtualbox-iso: Typing the boot command...[0m
+[1;32m==> virtualbox-iso: Waiting for SSH to become available...[0m
+[1;32m==> virtualbox-iso: Connected to SSH![0m
+[1;32m==> virtualbox-iso: Uploading VirtualBox version info (5.0.10)[0m
+[1;32m==> virtualbox-iso: Uploading VirtualBox guest additions ISO...[0m
+[1;32m==> virtualbox-iso: Uploading files/custom_prompt.sh => /tmp/custom_prompt.sh[0m
+[1;32m==> virtualbox-iso: Uploading files/my-tmux.conf => /tmp/my-tmux.conf[0m
+[1;32m==> virtualbox-iso: Uploading files/my-vimrc => /tmp/my-vimrc[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/common/sshd.sh[0m
+[0;32m    virtualbox-iso: + SSHD_CONFIG=/etc/ssh/sshd_config[0m
+[0;32m    virtualbox-iso: + sed -i -e '$a\' /etc/ssh/sshd_config[0m
+[0;32m    virtualbox-iso: + USEDNS='UseDNS no'[0m
+[0;32m    virtualbox-iso: + grep -q -E '^[[:space:]]*UseDNS' /etc/ssh/sshd_config[0m
+[0;32m    virtualbox-iso: + echo 'UseDNS no'[0m
+[0;32m    virtualbox-iso: + GSSAPI='GSSAPIAuthentication no'[0m
+[0;32m    virtualbox-iso: + grep -q -E '^[[:space:]]*GSSAPIAuthentication' /etc/ssh/sshd_config[0m
+[0;32m    virtualbox-iso: + sed -i 's/^\s*GSSAPIAuthentication.*/GSSAPIAuthentication no/' /etc/ssh/sshd_config[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/centos/networking.sh[0m
+[0;32m    virtualbox-iso: + case "$PACKER_BUILDER_TYPE" in[0m
+[0;32m    virtualbox-iso: ++ sed 's/^.\+ release \([.0-9]\+\).*/\1/' /etc/redhat-release[0m
+[0;32m    virtualbox-iso: ++ awk -F. '{print $1}'[0m
+[0;32m    virtualbox-iso: + major_version=7[0m
+[0;32m    virtualbox-iso: + '[' 7 -ge 6 ']'[0m
+[0;32m    virtualbox-iso: + echo 'RES_OPTIONS="single-request-reopen"'[0m
+[0;32m    virtualbox-iso: + service network restart[0m
+[0;32m    virtualbox-iso: Restarting network (via systemctl):  [  OK  ][0m
+[0;32m    virtualbox-iso: + echo 'Slow DNS fix applied (single-request-reopen)'[0m
+[0;32m    virtualbox-iso: Slow DNS fix applied (single-request-reopen)[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/common/vagrant.sh[0m
+[0;32m    virtualbox-iso: + HOME_DIR=/home/vagrant[0m
+[0;32m    virtualbox-iso: + pubkey_url=https://raw.githubusercontent.com/mitchellh/vagrant/master/keys/vagrant.pub[0m
+[0;32m    virtualbox-iso: + mkdir -p /home/vagrant/.ssh[0m
+[0;32m    virtualbox-iso: + command -v wget[0m
+[0;32m    virtualbox-iso: + wget --no-check-certificate https://raw.githubusercontent.com/mitchellh/vagrant/master/keys/vagrant.pub -O /home/vagrant/.ssh/authorized_keys[0m
+[0;32m    virtualbox-iso: --2016-06-24 16:30:33--  https://raw.githubusercontent.com/mitchellh/vagrant/master/keys/vagrant.pub[0m
+[0;32m    virtualbox-iso: Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.32.133[0m
+[0;32m    virtualbox-iso: Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.32.133|:443... connected.[0m
+[0;32m    virtualbox-iso: HTTP request sent, awaiting response... 200 OK[0m
+[0;32m    virtualbox-iso: Length: 409 [text/plain][0m
+[0;32m    virtualbox-iso: Saving to: ‘/home/vagrant/.ssh/authorized_keys’[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: 0K                                                       100%  153M=0s[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: 2016-06-24 16:30:33 (153 MB/s) - ‘/home/vagrant/.ssh/authorized_keys’ saved [409/409][0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: + chown -R vagrant /home/vagrant/.ssh[0m
+[0;32m    virtualbox-iso: + chmod -R go-rwsx /home/vagrant/.ssh[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/common/vmtools.sh[0m
+[0;32m    virtualbox-iso: + HOME_DIR=/home/vagrant[0m
+[0;32m    virtualbox-iso: + case "$PACKER_BUILDER_TYPE" in[0m
+[0;32m    virtualbox-iso: ++ cat /home/vagrant/.vbox_version[0m
+[0;32m    virtualbox-iso: + VER=5.0.10[0m
+[0;32m    virtualbox-iso: Virtualbox Tools Version: 5.0.10[0m
+[0;32m    virtualbox-iso: + echo 'Virtualbox Tools Version: 5.0.10'[0m
+[0;32m    virtualbox-iso: + mkdir -p /tmp/vbox[0m
+[0;32m    virtualbox-iso: + mount -o loop /home/vagrant/VBoxGuestAdditions_5.0.10.iso /tmp/vbox[0m
+[0;32m    virtualbox-iso: mount: /dev/loop0 is write-protected, mounting read-only[0m
+[0;32m    virtualbox-iso: + sh /tmp/vbox/VBoxLinuxAdditions.run[0m
+[0;32m    virtualbox-iso: Verifying archive integrity... All good.[0m
+[0;32m    virtualbox-iso: Uncompressing VirtualBox 5.0.10 Guest Additions for Linux............[0m
+[0;32m    virtualbox-iso: VirtualBox Guest Additions installer[0m
+[0;32m    virtualbox-iso: Copying additional installer modules ...[0m
+[0;32m    virtualbox-iso: Installing additional modules ...[0m
+[0;32m    virtualbox-iso: Removing existing VirtualBox non-DKMS kernel modules[  OK  ][0m
+[0;32m    virtualbox-iso: Building the VirtualBox Guest Additions kernel modules[0m
+[0;32m    virtualbox-iso: Building the main Guest Additions module[  OK  ][0m
+[0;32m    virtualbox-iso: Building the shared folder support module[  OK  ][0m
+[0;32m    virtualbox-iso: Building the OpenGL support module[FAILED][0m
+[0;32m    virtualbox-iso: (Look at /var/log/vboxadd-install.log to find out what went wrong. The module is not built but the others are.)[0m
+[0;32m    virtualbox-iso: Doing non-kernel setup of the Guest Additions[  OK  ][0m
+[0;32m    virtualbox-iso: Starting the VirtualBox Guest Additions [  OK  ][0m
+[0;32m    virtualbox-iso: Installing the Window System drivers[0m
+[0;32m    virtualbox-iso: Could not find the X.Org or XFree86 Window System, skipping.[0m
+[0;32m    virtualbox-iso: + echo 'VBoxLinuxAdditions.run exited 1 and is suppressed.' 'For more read https://www.virtualbox.org/ticket/12479'[0m
+[0;32m    virtualbox-iso: VBoxLinuxAdditions.run exited 1 and is suppressed. For more read https://www.virtualbox.org/ticket/12479[0m
+[0;32m    virtualbox-iso: + umount /tmp/vbox[0m
+[0;32m    virtualbox-iso: + rm -rf /tmp/vbox[0m
+[0;32m    virtualbox-iso: + rm -f /home/vagrant/VBoxGuestAdditions_5.0.10.iso[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/centos/cleanup.sh[0m
+[0;32m    virtualbox-iso: ++ rpm -qf --queryformat '%{NAME}' /etc/redhat-release[0m
+[0;32m    virtualbox-iso: ++ cut -f 1 -d -[0m
+[0;32m    virtualbox-iso: + distro=centos[0m
+[0;32m    virtualbox-iso: + yum -y remove gcc cpp kernel-devel kernel-headers perl[0m
+[0;32m    virtualbox-iso: Loaded plugins: fastestmirror[0m
+[0;32m    virtualbox-iso: Resolving Dependencies[0m
+[0;32m    virtualbox-iso: --> Running transaction check[0m
+[0;32m    virtualbox-iso: ---> Package cpp.x86_64 0:4.8.5-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package gcc.x86_64 0:4.8.5-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package kernel-devel.x86_64 0:3.10.0-327.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package kernel-headers.x86_64 0:3.10.0-327.el7 will be erased[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: kernel-headers for package: glibc-headers-2.17-105.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: kernel-headers >= 2.2.1 for package: glibc-headers-2.17-105.el7.x86_64[0m
+[0;32m    virtualbox-iso: ---> Package perl.x86_64 4:5.16.3-286.el7 will be erased[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.006 for package: perl-Text-ParseWords-3.29-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.004 for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.005 for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.008 for package: perl-threads-shared-1.43-6.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 1:5.8.0 for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.006 for package: perl-Exporter-5.68-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.005_04 for package: perl-File-Path-2.09-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.002 for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.005 for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.004 for package: perl-Getopt-Long-2.40-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.006 for package: perl-Pod-Usage-1.63-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.008 for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 1:5 for package: 1:perl-Pod-Escapes-1.04-286.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.004 for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.006 for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 1:5 for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.005 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.008 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 1:5 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl >= 5.008 for package: perl-constant-1.27-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-PathTools-3.40-5.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Scalar-List-Utils-1.27-248.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Carp-1.26-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 1:perl-Pod-Escapes-1.04-286.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 4:perl-Time-HiRes-1.9725-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Socket-2.010-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-constant-1.27-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 1:perl-parent-0.225-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-threads-shared-1.43-6.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-File-Path-2.09-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Getopt-Long-2.40-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 4:perl-libs-5.16.3-286.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 4:perl-macros-5.16.3-286.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Text-ParseWords-3.29-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Exporter-5.68-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Pod-Usage-1.63-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: perl-Time-Local-1.2300-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(:MODULE_COMPAT_5.16.3) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-Pod-Usage-1.63-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-Time-Local-1.2300-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Config) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(DynaLoader) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(DynaLoader) for package: 4:perl-Time-HiRes-1.9725-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(DynaLoader) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(DynaLoader) for package: 4:perl-Time-HiRes-1.9725-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Errno) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Errno) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Fcntl) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Fcntl) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Fcntl) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Fcntl) >= 1.03 for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(File::Basename) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(File::Basename) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(File::Basename) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(File::Basename) for package: perl-File-Path-2.09-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::File) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::Handle) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::Handle) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::Seekable) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::Select) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IO::Socket) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(IPC::Open3) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(MIME::Base64) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(POSIX) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(POSIX) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Symbol) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Symbol) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Term::ANSIColor) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Term::Cap) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(Text::Wrap) >= 98.112902 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-Socket-2.010-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-Scalar-List-Utils-1.27-248.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-threads-shared-1.43-6.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(XSLoader) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(base) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(base) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(bytes) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(bytes) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(integer) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(lib) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(overload) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(overload) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(overload) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(overload) for package: perl-Getopt-Long-2.40-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(re) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-PathTools-3.40-5.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Scalar-List-Utils-1.27-248.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Carp-1.26-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: 1:perl-Pod-Escapes-1.04-286.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: 4:perl-Time-HiRes-1.9725-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Socket-2.010-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-constant-1.27-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: 1:perl-parent-0.225-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-threads-shared-1.43-6.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-File-Path-2.09-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Getopt-Long-2.40-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Text-ParseWords-3.29-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Exporter-5.68-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Pod-Usage-1.63-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: perl-Time-Local-1.2300-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(strict) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(subs) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(utf8) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: 1:perl-parent-0.225-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-PathTools-3.40-5.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-podlators-2.5.1-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Storable-2.45-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Getopt-Long-2.40-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-File-Path-2.09-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: 1:perl-Pod-Escapes-1.04-286.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Pod-Usage-1.63-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Time-Local-1.2300-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-File-Temp-0.23.01-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(vars) for package: perl-constant-1.27-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-Pod-Perldoc-3.20-4.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-HTTP-Tiny-0.033-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-threads-shared-1.43-6.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-Carp-1.26-244.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-Exporter-5.68-3.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-Filter-1.49-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-threads-1.87-4.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings) for package: perl-Encode-2.51-7.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings::register) for package: perl-Socket-2.010-3.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: perl(warnings::register) for package: perl-constant-1.27-2.el7.noarch[0m
+[0;32m    virtualbox-iso: --> Running transaction check[0m
+[0;32m    virtualbox-iso: ---> Package glibc-headers.x86_64 0:2.17-105.el7 will be erased[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: glibc-headers for package: glibc-devel-2.17-105.el7.x86_64[0m
+[0;32m    virtualbox-iso: --> Processing Dependency: glibc-headers = 2.17-105.el7 for package: glibc-devel-2.17-105.el7.x86_64[0m
+[0;32m    virtualbox-iso: ---> Package perl-Carp.noarch 0:1.26-244.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Encode.x86_64 0:2.51-7.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Exporter.noarch 0:5.68-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-File-Path.noarch 0:2.09-2.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-File-Temp.noarch 0:0.23.01-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Filter.x86_64 0:1.49-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Getopt-Long.noarch 0:2.40-2.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-HTTP-Tiny.noarch 0:0.033-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-PathTools.x86_64 0:3.40-5.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Pod-Escapes.noarch 1:1.04-286.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Pod-Perldoc.noarch 0:3.20-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Pod-Simple.noarch 1:3.28-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Pod-Usage.noarch 0:1.63-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Scalar-List-Utils.x86_64 0:1.27-248.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Socket.x86_64 0:2.010-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Storable.x86_64 0:2.45-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Text-ParseWords.noarch 0:3.29-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Time-HiRes.x86_64 4:1.9725-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-Time-Local.noarch 0:1.2300-2.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-constant.noarch 0:1.27-2.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-libs.x86_64 4:5.16.3-286.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-macros.x86_64 4:5.16.3-286.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-parent.noarch 1:0.225-244.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-podlators.noarch 0:2.5.1-3.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-threads.x86_64 0:1.87-4.el7 will be erased[0m
+[0;32m    virtualbox-iso: ---> Package perl-threads-shared.x86_64 0:1.43-6.el7 will be erased[0m
+[0;32m    virtualbox-iso: --> Running transaction check[0m
+[0;32m    virtualbox-iso: ---> Package glibc-devel.x86_64 0:2.17-105.el7 will be erased[0m
+[0;32m    virtualbox-iso: --> Finished Dependency Resolution[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Dependencies Resolved[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Package                    Arch       Version              Repository     Size[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Removing:[0m
+[0;32m    virtualbox-iso: cpp                        x86_64     4.8.5-4.el7          @anaconda      15 M[0m
+[0;32m    virtualbox-iso: gcc                        x86_64     4.8.5-4.el7          @anaconda      37 M[0m
+[0;32m    virtualbox-iso: kernel-devel               x86_64     3.10.0-327.el7       @anaconda      33 M[0m
+[0;32m    virtualbox-iso: kernel-headers             x86_64     3.10.0-327.el7       @anaconda     3.2 M[0m
+[0;32m    virtualbox-iso: perl                       x86_64     4:5.16.3-286.el7     @anaconda      22 M[0m
+[0;32m    virtualbox-iso: Removing for dependencies:[0m
+[0;32m    virtualbox-iso: glibc-devel                x86_64     2.17-105.el7         @anaconda     1.0 M[0m
+[0;32m    virtualbox-iso: glibc-headers              x86_64     2.17-105.el7         @anaconda     2.2 M[0m
+[0;32m    virtualbox-iso: perl-Carp                  noarch     1.26-244.el7         @anaconda      28 k[0m
+[0;32m    virtualbox-iso: perl-Encode                x86_64     2.51-7.el7           @anaconda     9.7 M[0m
+[0;32m    virtualbox-iso: perl-Exporter              noarch     5.68-3.el7           @anaconda      55 k[0m
+[0;32m    virtualbox-iso: perl-File-Path             noarch     2.09-2.el7           @anaconda      49 k[0m
+[0;32m    virtualbox-iso: perl-File-Temp             noarch     0.23.01-3.el7        @anaconda     155 k[0m
+[0;32m    virtualbox-iso: perl-Filter                x86_64     1.49-3.el7           @anaconda     145 k[0m
+[0;32m    virtualbox-iso: perl-Getopt-Long           noarch     2.40-2.el7           @anaconda     132 k[0m
+[0;32m    virtualbox-iso: perl-HTTP-Tiny             noarch     0.033-3.el7          @anaconda      95 k[0m
+[0;32m    virtualbox-iso: perl-PathTools             x86_64     3.40-5.el7           @anaconda     170 k[0m
+[0;32m    virtualbox-iso: perl-Pod-Escapes           noarch     1:1.04-286.el7       @anaconda      21 k[0m
+[0;32m    virtualbox-iso: perl-Pod-Perldoc           noarch     3.20-4.el7           @anaconda     163 k[0m
+[0;32m    virtualbox-iso: perl-Pod-Simple            noarch     1:3.28-4.el7         @anaconda     526 k[0m
+[0;32m    virtualbox-iso: perl-Pod-Usage             noarch     1.63-3.el7           @anaconda      44 k[0m
+[0;32m    virtualbox-iso: perl-Scalar-List-Utils     x86_64     1.27-248.el7         @anaconda      66 k[0m
+[0;32m    virtualbox-iso: perl-Socket                x86_64     2.010-3.el7          @anaconda     112 k[0m
+[0;32m    virtualbox-iso: perl-Storable              x86_64     2.45-3.el7           @anaconda     177 k[0m
+[0;32m    virtualbox-iso: perl-Text-ParseWords       noarch     3.29-4.el7           @anaconda      16 k[0m
+[0;32m    virtualbox-iso: perl-Time-HiRes            x86_64     4:1.9725-3.el7       @anaconda      92 k[0m
+[0;32m    virtualbox-iso: perl-Time-Local            noarch     1.2300-2.el7         @anaconda      43 k[0m
+[0;32m    virtualbox-iso: perl-constant              noarch     1.27-2.el7           @anaconda      26 k[0m
+[0;32m    virtualbox-iso: perl-libs                  x86_64     4:5.16.3-286.el7     @anaconda     1.6 M[0m
+[0;32m    virtualbox-iso: perl-macros                x86_64     4:5.16.3-286.el7     @anaconda     5.0 k[0m
+[0;32m    virtualbox-iso: perl-parent                noarch     1:0.225-244.el7      @anaconda     8.0 k[0m
+[0;32m    virtualbox-iso: perl-podlators             noarch     2.5.1-3.el7          @anaconda     281 k[0m
+[0;32m    virtualbox-iso: perl-threads               x86_64     1.87-4.el7           @anaconda      96 k[0m
+[0;32m    virtualbox-iso: perl-threads-shared        x86_64     1.43-6.el7           @anaconda      72 k[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Transaction Summary[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Remove  5 Packages (+28 Dependent packages)[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Installed size: 128 M[0m
+[0;32m    virtualbox-iso: Downloading packages:[0m
+[0;32m    virtualbox-iso: Running transaction check[0m
+[0;32m    virtualbox-iso: Running transaction test[0m
+[0;32m    virtualbox-iso: Transaction test succeeded[0m
+[0;32m    virtualbox-iso: Running transaction[0m
+[0;32m    virtualbox-iso: Erasing    : gcc-4.8.5-4.el7.x86_64                                      1/33[0m
+[0;32m    virtualbox-iso: Erasing    : glibc-devel-2.17-105.el7.x86_64                             2/33[0m
+[0;32m    virtualbox-iso: Erasing    : glibc-headers-2.17-105.el7.x86_64                           3/33[0m
+[0;32m    virtualbox-iso: Erasing    : kernel-devel-3.10.0-327.el7.x86_64                          4/33[0m
+[0;32m    virtualbox-iso: Erasing    : kernel-headers-3.10.0-327.el7.x86_64                        5/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Filter-1.49-3.el7.x86_64                               6/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-File-Path-2.09-2.el7.noarch                            7/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-File-Temp-0.23.01-3.el7.noarch                         8/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Encode-2.51-7.el7.x86_64                               9/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-PathTools-3.40-5.el7.x86_64                           10/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-podlators-2.5.1-3.el7.noarch                          11/33[0m
+[0;32m    virtualbox-iso: Erasing    : 1:perl-parent-0.225-244.el7.noarch                         12/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Pod-Perldoc-3.20-4.el7.noarch                         13/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-HTTP-Tiny-0.033-3.el7.noarch                          14/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Pod-Usage-1.63-3.el7.noarch                           15/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Text-ParseWords-3.29-4.el7.noarch                     16/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Getopt-Long-2.40-2.el7.noarch                         17/33[0m
+[0;32m    virtualbox-iso: Erasing    : 1:perl-Pod-Escapes-1.04-286.el7.noarch                     18/33[0m
+[0;32m    virtualbox-iso: Erasing    : 1:perl-Pod-Simple-3.28-4.el7.noarch                        19/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Socket-2.010-3.el7.x86_64                             20/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Storable-2.45-3.el7.x86_64                            21/33[0m
+[0;32m    virtualbox-iso: Erasing    : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                      22/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Time-Local-1.2300-2.el7.noarch                        23/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-constant-1.27-2.el7.noarch                            24/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 25/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Exporter-5.68-3.el7.noarch                            26/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-Carp-1.26-244.el7.noarch                              27/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-threads-1.87-4.el7.x86_64                             28/33[0m
+[0;32m    virtualbox-iso: Erasing    : perl-threads-shared-1.43-6.el7.x86_64                      29/33[0m
+[0;32m    virtualbox-iso: Erasing    : 4:perl-libs-5.16.3-286.el7.x86_64                          30/33[0m
+[0;32m    virtualbox-iso: Erasing    : 4:perl-macros-5.16.3-286.el7.x86_64                        31/33[0m
+[0;32m    virtualbox-iso: Erasing    : 4:perl-5.16.3-286.el7.x86_64                               32/33[0m
+[0;32m    virtualbox-iso: Erasing    : cpp-4.8.5-4.el7.x86_64                                     33/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-HTTP-Tiny-0.033-3.el7.noarch                           1/33[0m
+[0;32m    virtualbox-iso: Verifying  : gcc-4.8.5-4.el7.x86_64                                      2/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-threads-shared-1.43-6.el7.x86_64                       3/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Storable-2.45-3.el7.x86_64                             4/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Exporter-5.68-3.el7.noarch                             5/33[0m
+[0;32m    virtualbox-iso: Verifying  : glibc-headers-2.17-105.el7.x86_64                           6/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-PathTools-3.40-5.el7.x86_64                            7/33[0m
+[0;32m    virtualbox-iso: Verifying  : 4:perl-libs-5.16.3-286.el7.x86_64                           8/33[0m
+[0;32m    virtualbox-iso: Verifying  : 4:perl-macros-5.16.3-286.el7.x86_64                         9/33[0m
+[0;32m    virtualbox-iso: Verifying  : 1:perl-parent-0.225-244.el7.noarch                         10/33[0m
+[0;32m    virtualbox-iso: Verifying  : kernel-headers-3.10.0-327.el7.x86_64                       11/33[0m
+[0;32m    virtualbox-iso: Verifying  : 4:perl-5.16.3-286.el7.x86_64                               12/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-File-Temp-0.23.01-3.el7.noarch                        13/33[0m
+[0;32m    virtualbox-iso: Verifying  : 1:perl-Pod-Simple-3.28-4.el7.noarch                        14/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Time-Local-1.2300-2.el7.noarch                        15/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Pod-Perldoc-3.20-4.el7.noarch                         16/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Socket-2.010-3.el7.x86_64                             17/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Carp-1.26-244.el7.noarch                              18/33[0m
+[0;32m    virtualbox-iso: Verifying  : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                      19/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 20/33[0m
+[0;32m    virtualbox-iso: Verifying  : 1:perl-Pod-Escapes-1.04-286.el7.noarch                     21/33[0m
+[0;32m    virtualbox-iso: Verifying  : glibc-devel-2.17-105.el7.x86_64                            22/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Pod-Usage-1.63-3.el7.noarch                           23/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Encode-2.51-7.el7.x86_64                              24/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-podlators-2.5.1-3.el7.noarch                          25/33[0m
+[0;32m    virtualbox-iso: Verifying  : kernel-devel-3.10.0-327.el7.x86_64                         26/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-constant-1.27-2.el7.noarch                            27/33[0m
+[0;32m    virtualbox-iso: Verifying  : cpp-4.8.5-4.el7.x86_64                                     28/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-File-Path-2.09-2.el7.noarch                           29/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-threads-1.87-4.el7.x86_64                             30/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Filter-1.49-3.el7.x86_64                              31/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Text-ParseWords-3.29-4.el7.noarch                     32/33[0m
+[0;32m    virtualbox-iso: Verifying  : perl-Getopt-Long-2.40-2.el7.noarch                         33/33[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Removed:[0m
+[0;32m    virtualbox-iso: cpp.x86_64 0:4.8.5-4.el7              gcc.x86_64 0:4.8.5-4.el7[0m
+[0;32m    virtualbox-iso: kernel-devel.x86_64 0:3.10.0-327.el7  kernel-headers.x86_64 0:3.10.0-327.el7[0m
+[0;32m    virtualbox-iso: perl.x86_64 4:5.16.3-286.el7[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Dependency Removed:[0m
+[0;32m    virtualbox-iso: glibc-devel.x86_64 0:2.17-105.el7[0m
+[0;32m    virtualbox-iso: glibc-headers.x86_64 0:2.17-105.el7[0m
+[0;32m    virtualbox-iso: perl-Carp.noarch 0:1.26-244.el7[0m
+[0;32m    virtualbox-iso: perl-Encode.x86_64 0:2.51-7.el7[0m
+[0;32m    virtualbox-iso: perl-Exporter.noarch 0:5.68-3.el7[0m
+[0;32m    virtualbox-iso: perl-File-Path.noarch 0:2.09-2.el7[0m
+[0;32m    virtualbox-iso: perl-File-Temp.noarch 0:0.23.01-3.el7[0m
+[0;32m    virtualbox-iso: perl-Filter.x86_64 0:1.49-3.el7[0m
+[0;32m    virtualbox-iso: perl-Getopt-Long.noarch 0:2.40-2.el7[0m
+[0;32m    virtualbox-iso: perl-HTTP-Tiny.noarch 0:0.033-3.el7[0m
+[0;32m    virtualbox-iso: perl-PathTools.x86_64 0:3.40-5.el7[0m
+[0;32m    virtualbox-iso: perl-Pod-Escapes.noarch 1:1.04-286.el7[0m
+[0;32m    virtualbox-iso: perl-Pod-Perldoc.noarch 0:3.20-4.el7[0m
+[0;32m    virtualbox-iso: perl-Pod-Simple.noarch 1:3.28-4.el7[0m
+[0;32m    virtualbox-iso: perl-Pod-Usage.noarch 0:1.63-3.el7[0m
+[0;32m    virtualbox-iso: perl-Scalar-List-Utils.x86_64 0:1.27-248.el7[0m
+[0;32m    virtualbox-iso: perl-Socket.x86_64 0:2.010-3.el7[0m
+[0;32m    virtualbox-iso: perl-Storable.x86_64 0:2.45-3.el7[0m
+[0;32m    virtualbox-iso: perl-Text-ParseWords.noarch 0:3.29-4.el7[0m
+[0;32m    virtualbox-iso: perl-Time-HiRes.x86_64 4:1.9725-3.el7[0m
+[0;32m    virtualbox-iso: perl-Time-Local.noarch 0:1.2300-2.el7[0m
+[0;32m    virtualbox-iso: perl-constant.noarch 0:1.27-2.el7[0m
+[0;32m    virtualbox-iso: perl-libs.x86_64 4:5.16.3-286.el7[0m
+[0;32m    virtualbox-iso: perl-macros.x86_64 4:5.16.3-286.el7[0m
+[0;32m    virtualbox-iso: perl-parent.noarch 1:0.225-244.el7[0m
+[0;32m    virtualbox-iso: perl-podlators.noarch 0:2.5.1-3.el7[0m
+[0;32m    virtualbox-iso: perl-threads.x86_64 0:1.87-4.el7[0m
+[0;32m    virtualbox-iso: perl-threads-shared.x86_64 0:1.43-6.el7[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Complete![0m
+[0;32m    virtualbox-iso: + '[' centos '!=' redhat ']'[0m
+[0;32m    virtualbox-iso: + yum -y clean all[0m
+[0;32m    virtualbox-iso: Loaded plugins: fastestmirror[0m
+[0;32m    virtualbox-iso: Cleaning repos: base extras updates[0m
+[0;32m    virtualbox-iso: Cleaning up everything[0m
+[0;32m    virtualbox-iso: + rm -f /etc/udev/rules.d/70-persistent-net.rules[0m
+[0;32m    virtualbox-iso: + mkdir -p /etc/udev/rules.d/70-persistent-net.rules[0m
+[0;32m    virtualbox-iso: + rm -f /lib/udev/rules.d/75-persistent-net-generator.rules[0m
+[0;32m    virtualbox-iso: + rm -rf /dev/.udev/[0m
+[0;32m    virtualbox-iso: ++ ls -1 /etc/sysconfig/network-scripts/ifcfg-enp0s3 /etc/sysconfig/network-scripts/ifcfg-lo[0m
+[0;32m    virtualbox-iso: + for ndev in '`ls -1 /etc/sysconfig/network-scripts/ifcfg-*`'[0m
+[0;32m    virtualbox-iso: ++ basename /etc/sysconfig/network-scripts/ifcfg-enp0s3[0m
+[0;32m    virtualbox-iso: + '[' ifcfg-enp0s3 '!=' ifcfg-lo ']'[0m
+[0;32m    virtualbox-iso: + sed -i '/^HWADDR/d' /etc/sysconfig/network-scripts/ifcfg-enp0s3[0m
+[0;32m    virtualbox-iso: + sed -i '/^UUID/d' /etc/sysconfig/network-scripts/ifcfg-enp0s3[0m
+[0;32m    virtualbox-iso: + for ndev in '`ls -1 /etc/sysconfig/network-scripts/ifcfg-*`'[0m
+[0;32m    virtualbox-iso: ++ basename /etc/sysconfig/network-scripts/ifcfg-lo[0m
+[0;32m    virtualbox-iso: + '[' ifcfg-lo '!=' ifcfg-lo ']'[0m
+[0;32m    virtualbox-iso: + rm -f 'VBoxGuestAdditions_*.iso' 'VBoxGuestAdditions_*.iso.?'[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/common/minimize.sh[0m
+[0;32m    virtualbox-iso: + case "$PACKER_BUILDER_TYPE" in[0m
+[0;32m    virtualbox-iso: + set +e[0m
+[0;32m    virtualbox-iso: ++ /sbin/blkid -o value -l -s UUID -t TYPE=swap[0m
+[0;32m    virtualbox-iso: + swapuuid=efc19a4d-1e53-4a60-a5ac-fac2dd082281[0m
+[0;32m    virtualbox-iso: + case "$?" in[0m
+[0;32m    virtualbox-iso: + set -e[0m
+[0;32m    virtualbox-iso: + '[' xefc19a4d-1e53-4a60-a5ac-fac2dd082281 '!=' x ']'[0m
+[0;32m    virtualbox-iso: ++ readlink -f /dev/disk/by-uuid/efc19a4d-1e53-4a60-a5ac-fac2dd082281[0m
+[0;32m    virtualbox-iso: + swappart=/dev/dm-1[0m
+[0;32m    virtualbox-iso: + /sbin/swapoff /dev/dm-1[0m
+[0;32m    virtualbox-iso: + dd if=/dev/zero of=/dev/dm-1 bs=1M[0m
+[0;32m    virtualbox-iso: dd: error writing ‘/dev/dm-1’: No space left on device[0m
+[0;32m    virtualbox-iso: 1025+0 records in[0m
+[0;32m    virtualbox-iso: 1024+0 records out[0m
+[0;32m    virtualbox-iso: 1073741824 bytes (1.1 GB) copied, 1.61486 s, 665 MB/s[0m
+[0;32m    virtualbox-iso: + echo 'dd exit code 1 is suppressed'[0m
+[0;32m    virtualbox-iso: dd exit code 1 is suppressed[0m
+[0;32m    virtualbox-iso: + /sbin/mkswap -U efc19a4d-1e53-4a60-a5ac-fac2dd082281 /dev/dm-1[0m
+[0;32m    virtualbox-iso: Setting up swapspace version 1, size = 1048572 KiB[0m
+[0;32m    virtualbox-iso: no label, UUID=efc19a4d-1e53-4a60-a5ac-fac2dd082281[0m
+[0;32m    virtualbox-iso: + dd if=/dev/zero of=/EMPTY bs=1M[0m
+[0;32m    virtualbox-iso: dd: error writing ‘/EMPTY’: No space left on device[0m
+[0;32m    virtualbox-iso: 38498+0 records in[0m
+[0;32m    virtualbox-iso: dd exit code 1 is suppressed[0m
+[0;32m    virtualbox-iso: 38497+0 records out[0m
+[0;32m    virtualbox-iso: 40367878144 bytes (40 GB) copied, 55.9212 s, 722 MB/s[0m
+[0;32m    virtualbox-iso: + echo 'dd exit code 1 is suppressed'[0m
+[0;32m    virtualbox-iso: + rm -f /EMPTY[0m
+[0;32m    virtualbox-iso: + sync[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/install/install_epel.sh[0m
+[0;32m    virtualbox-iso: + VER=7-7[0m
+[0;32m    virtualbox-iso: + wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-7.noarch.rpm[0m
+[0;32m    virtualbox-iso: --2016-06-24 20:32:06--  http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-7.noarch.rpm[0m
+[0;32m    virtualbox-iso: Resolving dl.fedoraproject.org (dl.fedoraproject.org)... 209.132.181.26, 209.132.181.25, 209.132.181.24, ...[0m
+[0;32m    virtualbox-iso: Connecting to dl.fedoraproject.org (dl.fedoraproject.org)|209.132.181.26|:80... connected.[0m
+[0;32m    virtualbox-iso: HTTP request sent, awaiting response... 200 OK[0m
+[0;32m    virtualbox-iso: Length: 14500 (14K) [application/x-rpm][0m
+[0;32m    virtualbox-iso: Saving to: ‘epel-release-7-7.noarch.rpm’[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: 0K .......... ....                                       100%  214K=0.07s[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: 2016-06-24 20:32:06 (214 KB/s) - ‘epel-release-7-7.noarch.rpm’ saved [14500/14500][0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: + rpm -ivh epel-release-7-7.noarch.rpm[0m
+[0;32m    virtualbox-iso: warning: epel-release-7-7.noarch.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY[0m
+[0;32m    virtualbox-iso: Preparing...                          ########################################[0m
+[0;32m    virtualbox-iso: Updating / installing...[0m
+[0;32m    virtualbox-iso: epel-release-7-7                      ########################################[0m
+[1;32m==> virtualbox-iso: Provisioning with shell script: scripts/install/install_ansible.sh[0m
+[0;32m    virtualbox-iso: + yum -y update[0m
+[0;32m    virtualbox-iso: Loaded plugins: fastestmirror[0m
+[0;32m    virtualbox-iso: Determining fastest mirrors[0m
+[0;32m    virtualbox-iso: * base: mirror.steadfast.net[0m
+[0;32m    virtualbox-iso: * epel: reflector.westga.edu[0m
+[0;32m    virtualbox-iso: * extras: mirror.linux.duke.edu[0m
+[0;32m    virtualbox-iso: * updates: mirror.es.its.nyu.edu[0m
+[0;32m    virtualbox-iso: Resolving Dependencies[0m
+[0;32m    virtualbox-iso: --> Running transaction check[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager.x86_64 1:1.0.6-27.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager.x86_64 1:1.0.6-30.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-libnm.x86_64 1:1.0.6-27.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-libnm.x86_64 1:1.0.6-30.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-team.x86_64 1:1.0.6-27.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-team.x86_64 1:1.0.6-30.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-tui.x86_64 1:1.0.6-27.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package NetworkManager-tui.x86_64 1:1.0.6-30.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package avahi-autoipd.x86_64 0:0.6.31-15.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package avahi-autoipd.x86_64 0:0.6.31-15.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package avahi-libs.x86_64 0:0.6.31-15.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package avahi-libs.x86_64 0:0.6.31-15.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package bind-libs-lite.x86_64 32:9.9.4-29.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package bind-libs-lite.x86_64 32:9.9.4-29.el7_2.3 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package bind-license.noarch 32:9.9.4-29.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package bind-license.noarch 32:9.9.4-29.el7_2.3 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package ca-certificates.noarch 0:2015.2.4-71.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package ca-certificates.noarch 0:2015.2.6-70.1.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package chkconfig.x86_64 0:1.3.61-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package chkconfig.x86_64 0:1.3.61-5.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package coreutils.x86_64 0:8.22-15.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package coreutils.x86_64 0:8.22-15.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package cronie.x86_64 0:1.4.11-14.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package cronie.x86_64 0:1.4.11-14.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package cronie-anacron.x86_64 0:1.4.11-14.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package cronie-anacron.x86_64 0:1.4.11-14.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package cyrus-sasl-lib.x86_64 0:2.1.26-19.2.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package cyrus-sasl-lib.x86_64 0:2.1.26-20.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper.x86_64 7:1.02.107-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper.x86_64 7:1.02.107-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-event.x86_64 7:1.02.107-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-event.x86_64 7:1.02.107-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-event-libs.x86_64 7:1.02.107-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-event-libs.x86_64 7:1.02.107-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-libs.x86_64 7:1.02.107-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package device-mapper-libs.x86_64 7:1.02.107-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package dracut.x86_64 0:033-359.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package dracut.x86_64 0:033-360.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package dracut-config-rescue.x86_64 0:033-359.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package dracut-config-rescue.x86_64 0:033-360.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package dracut-network.x86_64 0:033-359.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package dracut-network.x86_64 0:033-360.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package glibc.x86_64 0:2.17-105.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package glibc.x86_64 0:2.17-106.el7_2.6 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package glibc-common.x86_64 0:2.17-105.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package glibc-common.x86_64 0:2.17-106.el7_2.6 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package gmp.x86_64 1:6.0.0-11.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package gmp.x86_64 1:6.0.0-12.el7_1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package gnutls.x86_64 0:3.3.8-12.el7_1.1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package gnutls.x86_64 0:3.3.8-14.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package grub2.x86_64 1:2.02-0.29.el7.centos will be updated[0m
+[0;32m    virtualbox-iso: ---> Package grub2.x86_64 1:2.02-0.34.el7.centos will be an update[0m
+[0;32m    virtualbox-iso: ---> Package grub2-tools.x86_64 1:2.02-0.29.el7.centos will be updated[0m
+[0;32m    virtualbox-iso: ---> Package grub2-tools.x86_64 1:2.02-0.34.el7.centos will be an update[0m
+[0;32m    virtualbox-iso: ---> Package initscripts.x86_64 0:9.49.30-1.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package initscripts.x86_64 0:9.49.30-1.el7_2.2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package iproute.x86_64 0:3.10.0-54.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package iproute.x86_64 0:3.10.0-54.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package kernel.x86_64 0:3.10.0-327.22.2.el7 will be installed[0m
+[0;32m    virtualbox-iso: ---> Package kernel-tools.x86_64 0:3.10.0-327.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package kernel-tools.x86_64 0:3.10.0-327.22.2.el7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package kernel-tools-libs.x86_64 0:3.10.0-327.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package kernel-tools-libs.x86_64 0:3.10.0-327.22.2.el7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package kexec-tools.x86_64 0:2.0.7-38.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package kexec-tools.x86_64 0:2.0.7-38.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package kpartx.x86_64 0:0.4.9-85.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package kpartx.x86_64 0:0.4.9-85.el7_2.5 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package krb5-libs.x86_64 0:1.13.2-10.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package krb5-libs.x86_64 0:1.13.2-12.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libblkid.x86_64 0:2.23.2-26.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libblkid.x86_64 0:2.23.2-26.el7_2.2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libgudev1.x86_64 0:219-19.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libgudev1.x86_64 0:219-19.el7_2.11 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libmount.x86_64 0:2.23.2-26.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libmount.x86_64 0:2.23.2-26.el7_2.2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libndp.x86_64 0:1.2-4.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libndp.x86_64 0:1.2-6.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libssh2.x86_64 0:1.4.3-10.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libssh2.x86_64 0:1.4.3-10.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libtalloc.x86_64 0:2.1.2-1.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libtalloc.x86_64 0:2.1.5-1.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libteam.x86_64 0:1.17-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libteam.x86_64 0:1.17-6.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libtevent.x86_64 0:0.9.25-1.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libtevent.x86_64 0:0.9.26-1.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libuuid.x86_64 0:2.23.2-26.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libuuid.x86_64 0:2.23.2-26.el7_2.2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package libxml2.x86_64 0:2.9.1-5.el7_1.2 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package libxml2.x86_64 0:2.9.1-6.el7_2.3 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package logrotate.x86_64 0:3.8.6-6.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package logrotate.x86_64 0:3.8.6-7.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package lvm2.x86_64 7:2.02.130-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package lvm2.x86_64 7:2.02.130-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package lvm2-libs.x86_64 7:2.02.130-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package lvm2-libs.x86_64 7:2.02.130-5.el7_2.4 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package mariadb-libs.x86_64 1:5.5.44-2.el7.centos will be updated[0m
+[0;32m    virtualbox-iso: ---> Package mariadb-libs.x86_64 1:5.5.47-1.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nfs-utils.x86_64 1:1.3.0-0.21.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nfs-utils.x86_64 1:1.3.0-0.21.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nspr.x86_64 0:4.10.8-2.el7_1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nspr.x86_64 0:4.11.0-1.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss.x86_64 0:3.19.1-18.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss.x86_64 0:3.21.0-9.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss-softokn.x86_64 0:3.16.2.3-13.el7_1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss-softokn.x86_64 0:3.16.2.3-14.2.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss-softokn-freebl.x86_64 0:3.16.2.3-13.el7_1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss-softokn-freebl.x86_64 0:3.16.2.3-14.2.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss-sysinit.x86_64 0:3.19.1-18.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss-sysinit.x86_64 0:3.21.0-9.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss-tools.x86_64 0:3.19.1-18.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss-tools.x86_64 0:3.21.0-9.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package nss-util.x86_64 0:3.19.1-4.el7_1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package nss-util.x86_64 0:3.21.0-2.2.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package numactl-libs.x86_64 0:2.0.9-5.el7_1 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package numactl-libs.x86_64 0:2.0.9-6.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openldap.x86_64 0:2.4.40-8.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openldap.x86_64 0:2.4.40-9.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openssh.x86_64 0:6.6.1p1-22.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openssh.x86_64 0:6.6.1p1-25.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openssh-clients.x86_64 0:6.6.1p1-22.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openssh-clients.x86_64 0:6.6.1p1-25.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openssh-server.x86_64 0:6.6.1p1-22.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openssh-server.x86_64 0:6.6.1p1-25.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openssl.x86_64 1:1.0.1e-42.el7.9 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openssl.x86_64 1:1.0.1e-51.el7_2.5 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package openssl-libs.x86_64 1:1.0.1e-42.el7.9 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package openssl-libs.x86_64 1:1.0.1e-51.el7_2.5 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package pcre.x86_64 0:8.32-15.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package pcre.x86_64 0:8.32-15.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package polkit.x86_64 0:0.112-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package polkit.x86_64 0:0.112-7.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package procps-ng.x86_64 0:3.3.10-3.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package procps-ng.x86_64 0:3.3.10-5.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package python-perf.x86_64 0:3.10.0-327.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package python-perf.x86_64 0:3.10.0-327.22.2.el7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package python-pyudev.noarch 0:0.15-7.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package python-pyudev.noarch 0:0.15-7.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package quota.x86_64 1:4.01-11.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package quota.x86_64 1:4.01-11.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package quota-nls.noarch 1:4.01-11.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package quota-nls.noarch 1:4.01-11.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package rdma.noarch 0:7.2_4.1_rc6-1.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package rdma.noarch 0:7.2_4.1_rc6-2.el7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package rpcbind.x86_64 0:0.2.0-32.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package rpcbind.x86_64 0:0.2.0-33.el7_2.1 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy.noarch 0:3.13.1-60.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy.noarch 0:3.13.1-60.el7_2.7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy-devel.noarch 0:3.13.1-60.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy-devel.noarch 0:3.13.1-60.el7_2.7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy-targeted.noarch 0:3.13.1-60.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package selinux-policy-targeted.noarch 0:3.13.1-60.el7_2.7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package sudo.x86_64 0:1.8.6p7-16.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package sudo.x86_64 0:1.8.6p7-17.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package systemd.x86_64 0:219-19.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package systemd.x86_64 0:219-19.el7_2.11 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package systemd-libs.x86_64 0:219-19.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package systemd-libs.x86_64 0:219-19.el7_2.11 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package systemd-sysv.x86_64 0:219-19.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package systemd-sysv.x86_64 0:219-19.el7_2.11 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package teamd.x86_64 0:1.17-5.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package teamd.x86_64 0:1.17-6.el7_2 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package tuned.noarch 0:2.5.1-4.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package tuned.noarch 0:2.5.1-4.el7_2.3 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package tzdata.noarch 0:2015g-1.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package tzdata.noarch 0:2016e-1.el7 will be an update[0m
+[0;32m    virtualbox-iso: ---> Package util-linux.x86_64 0:2.23.2-26.el7 will be updated[0m
+[0;32m    virtualbox-iso: ---> Package util-linux.x86_64 0:2.23.2-26.el7_2.2 will be an update[0m
+[0;32m    virtualbox-iso: --> Finished Dependency Resolution[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Dependencies Resolved[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Package                    Arch     Version                    Repository[0m
+[0;32m    virtualbox-iso: Size[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Installing:[0m
+[0;32m    virtualbox-iso: kernel                     x86_64   3.10.0-327.22.2.el7        updates    33 M[0m
+[0;32m    virtualbox-iso: Updating:[0m
+[0;32m    virtualbox-iso: NetworkManager             x86_64   1:1.0.6-30.el7_2           updates   2.0 M[0m
+[0;32m    virtualbox-iso: NetworkManager-libnm       x86_64   1:1.0.6-30.el7_2           updates   498 k[0m
+[0;32m    virtualbox-iso: NetworkManager-team        x86_64   1:1.0.6-30.el7_2           updates   132 k[0m
+[0;32m    virtualbox-iso: NetworkManager-tui         x86_64   1:1.0.6-30.el7_2           updates   212 k[0m
+[0;32m    virtualbox-iso: avahi-autoipd              x86_64   0.6.31-15.el7_2.1          updates    39 k[0m
+[0;32m    virtualbox-iso: avahi-libs                 x86_64   0.6.31-15.el7_2.1          updates    61 k[0m
+[0;32m    virtualbox-iso: bind-libs-lite             x86_64   32:9.9.4-29.el7_2.3        updates   724 k[0m
+[0;32m    virtualbox-iso: bind-license               noarch   32:9.9.4-29.el7_2.3        updates    82 k[0m
+[0;32m    virtualbox-iso: ca-certificates            noarch   2015.2.6-70.1.el7_2        updates   428 k[0m
+[0;32m    virtualbox-iso: chkconfig                  x86_64   1.3.61-5.el7_2.1           updates   173 k[0m
+[0;32m    virtualbox-iso: coreutils                  x86_64   8.22-15.el7_2.1            updates   3.2 M[0m
+[0;32m    virtualbox-iso: cronie                     x86_64   1.4.11-14.el7_2.1          updates    90 k[0m
+[0;32m    virtualbox-iso: cronie-anacron             x86_64   1.4.11-14.el7_2.1          updates    35 k[0m
+[0;32m    virtualbox-iso: cyrus-sasl-lib             x86_64   2.1.26-20.el7_2            updates   155 k[0m
+[0;32m    virtualbox-iso: device-mapper              x86_64   7:1.02.107-5.el7_2.4       updates   252 k[0m
+[0;32m    virtualbox-iso: device-mapper-event        x86_64   7:1.02.107-5.el7_2.4       updates   167 k[0m
+[0;32m    virtualbox-iso: device-mapper-event-libs   x86_64   7:1.02.107-5.el7_2.4       updates   169 k[0m
+[0;32m    virtualbox-iso: device-mapper-libs         x86_64   7:1.02.107-5.el7_2.4       updates   305 k[0m
+[0;32m    virtualbox-iso: dracut                     x86_64   033-360.el7_2.1            updates   311 k[0m
+[0;32m    virtualbox-iso: dracut-config-rescue       x86_64   033-360.el7_2.1            updates    50 k[0m
+[0;32m    virtualbox-iso: dracut-network             x86_64   033-360.el7_2.1            updates    90 k[0m
+[0;32m    virtualbox-iso: glibc                      x86_64   2.17-106.el7_2.6           updates   3.6 M[0m
+[0;32m    virtualbox-iso: glibc-common               x86_64   2.17-106.el7_2.6           updates    11 M[0m
+[0;32m    virtualbox-iso: gmp                        x86_64   1:6.0.0-12.el7_1           updates   280 k[0m
+[0;32m    virtualbox-iso: gnutls                     x86_64   3.3.8-14.el7_2             updates   662 k[0m
+[0;32m    virtualbox-iso: grub2                      x86_64   1:2.02-0.34.el7.centos     updates   1.5 M[0m
+[0;32m    virtualbox-iso: grub2-tools                x86_64   1:2.02-0.34.el7.centos     updates   3.3 M[0m
+[0;32m    virtualbox-iso: initscripts                x86_64   9.49.30-1.el7_2.2          updates   429 k[0m
+[0;32m    virtualbox-iso: iproute                    x86_64   3.10.0-54.el7_2.1          updates   526 k[0m
+[0;32m    virtualbox-iso: kernel-tools               x86_64   3.10.0-327.22.2.el7        updates   2.4 M[0m
+[0;32m    virtualbox-iso: kernel-tools-libs          x86_64   3.10.0-327.22.2.el7        updates   2.3 M[0m
+[0;32m    virtualbox-iso: kexec-tools                x86_64   2.0.7-38.el7_2.1           updates   306 k[0m
+[0;32m    virtualbox-iso: kpartx                     x86_64   0.4.9-85.el7_2.5           updates    60 k[0m
+[0;32m    virtualbox-iso: krb5-libs                  x86_64   1.13.2-12.el7_2            updates   843 k[0m
+[0;32m    virtualbox-iso: libblkid                   x86_64   2.23.2-26.el7_2.2          updates   166 k[0m
+[0;32m    virtualbox-iso: libgudev1                  x86_64   219-19.el7_2.11            updates    66 k[0m
+[0;32m    virtualbox-iso: libmount                   x86_64   2.23.2-26.el7_2.2          updates   169 k[0m
+[0;32m    virtualbox-iso: libndp                     x86_64   1.2-6.el7_2                updates    31 k[0m
+[0;32m    virtualbox-iso: libssh2                    x86_64   1.4.3-10.el7_2.1           updates   134 k[0m
+[0;32m    virtualbox-iso: libtalloc                  x86_64   2.1.5-1.el7_2              updates    34 k[0m
+[0;32m    virtualbox-iso: libteam                    x86_64   1.17-6.el7_2               updates    45 k[0m
+[0;32m    virtualbox-iso: libtevent                  x86_64   0.9.26-1.el7_2.1           updates    33 k[0m
+[0;32m    virtualbox-iso: libuuid                    x86_64   2.23.2-26.el7_2.2          updates    74 k[0m
+[0;32m    virtualbox-iso: libxml2                    x86_64   2.9.1-6.el7_2.3            updates   668 k[0m
+[0;32m    virtualbox-iso: logrotate                  x86_64   3.8.6-7.el7_2              updates    66 k[0m
+[0;32m    virtualbox-iso: lvm2                       x86_64   7:2.02.130-5.el7_2.4       updates   1.0 M[0m
+[0;32m    virtualbox-iso: lvm2-libs                  x86_64   7:2.02.130-5.el7_2.4       updates   873 k[0m
+[0;32m    virtualbox-iso: mariadb-libs               x86_64   1:5.5.47-1.el7_2           updates   755 k[0m
+[0;32m    virtualbox-iso: nfs-utils                  x86_64   1:1.3.0-0.21.el7_2.1       updates   371 k[0m
+[0;32m    virtualbox-iso: nspr                       x86_64   4.11.0-1.el7_2             updates   126 k[0m
+[0;32m    virtualbox-iso: nss                        x86_64   3.21.0-9.el7_2             updates   850 k[0m
+[0;32m    virtualbox-iso: nss-softokn                x86_64   3.16.2.3-14.2.el7_2        updates   305 k[0m
+[0;32m    virtualbox-iso: nss-softokn-freebl         x86_64   3.16.2.3-14.2.el7_2        updates   204 k[0m
+[0;32m    virtualbox-iso: nss-sysinit                x86_64   3.21.0-9.el7_2             updates    55 k[0m
+[0;32m    virtualbox-iso: nss-tools                  x86_64   3.21.0-9.el7_2             updates   487 k[0m
+[0;32m    virtualbox-iso: nss-util                   x86_64   3.21.0-2.2.el7_2           updates    72 k[0m
+[0;32m    virtualbox-iso: numactl-libs               x86_64   2.0.9-6.el7_2              updates    29 k[0m
+[0;32m    virtualbox-iso: openldap                   x86_64   2.4.40-9.el7_2             updates   348 k[0m
+[0;32m    virtualbox-iso: openssh                    x86_64   6.6.1p1-25.el7_2           updates   435 k[0m
+[0;32m    virtualbox-iso: openssh-clients            x86_64   6.6.1p1-25.el7_2           updates   639 k[0m
+[0;32m    virtualbox-iso: openssh-server             x86_64   6.6.1p1-25.el7_2           updates   436 k[0m
+[0;32m    virtualbox-iso: openssl                    x86_64   1:1.0.1e-51.el7_2.5        updates   712 k[0m
+[0;32m    virtualbox-iso: openssl-libs               x86_64   1:1.0.1e-51.el7_2.5        updates   952 k[0m
+[0;32m    virtualbox-iso: pcre                       x86_64   8.32-15.el7_2.1            updates   420 k[0m
+[0;32m    virtualbox-iso: polkit                     x86_64   0.112-7.el7_2              updates   166 k[0m
+[0;32m    virtualbox-iso: procps-ng                  x86_64   3.3.10-5.el7_2             updates   287 k[0m
+[0;32m    virtualbox-iso: python-perf                x86_64   3.10.0-327.22.2.el7        updates   2.4 M[0m
+[0;32m    virtualbox-iso: python-pyudev              noarch   0.15-7.el7_2.1             updates    54 k[0m
+[0;32m    virtualbox-iso: quota                      x86_64   1:4.01-11.el7_2.1          updates   178 k[0m
+[0;32m    virtualbox-iso: quota-nls                  noarch   1:4.01-11.el7_2.1          updates    90 k[0m
+[0;32m    virtualbox-iso: rdma                       noarch   7.2_4.1_rc6-2.el7          updates    28 k[0m
+[0;32m    virtualbox-iso: rpcbind                    x86_64   0.2.0-33.el7_2.1           updates    58 k[0m
+[0;32m    virtualbox-iso: selinux-policy             noarch   3.13.1-60.el7_2.7          updates   376 k[0m
+[0;32m    virtualbox-iso: selinux-policy-devel       noarch   3.13.1-60.el7_2.7          updates   3.3 M[0m
+[0;32m    virtualbox-iso: selinux-policy-targeted    noarch   3.13.1-60.el7_2.7          updates   3.9 M[0m
+[0;32m    virtualbox-iso: sudo                       x86_64   1.8.6p7-17.el7_2           updates   732 k[0m
+[0;32m    virtualbox-iso: systemd                    x86_64   219-19.el7_2.11            updates   5.1 M[0m
+[0;32m    virtualbox-iso: systemd-libs               x86_64   219-19.el7_2.11            updates   358 k[0m
+[0;32m    virtualbox-iso: systemd-sysv               x86_64   219-19.el7_2.11            updates    53 k[0m
+[0;32m    virtualbox-iso: teamd                      x86_64   1.17-6.el7_2               updates   109 k[0m
+[0;32m    virtualbox-iso: tuned                      noarch   2.5.1-4.el7_2.3            updates   193 k[0m
+[0;32m    virtualbox-iso: tzdata                     noarch   2016e-1.el7                updates   442 k[0m
+[0;32m    virtualbox-iso: util-linux                 x86_64   2.23.2-26.el7_2.2          updates   1.9 M[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Transaction Summary[0m
+[0;32m    virtualbox-iso: ================================================================================[0m
+[0;32m    virtualbox-iso: Install   1 Package[0m
+[0;32m    virtualbox-iso: Upgrade  83 Packages[0m
+[0;32m    virtualbox-iso:[0m
+[0;32m    virtualbox-iso: Total download size: 100 M[0m
+[0;32m    virtualbox-iso: Downloading packages:[0m
+[0;32m    virtualbox-iso: Delta RPMs disabled because /usr/bin/applydeltarpm not installed.[0m
+[0;32m    virtualbox-iso: warning: /var/cache/yum/x86_64/7/updates/packages/NetworkManager-libnm-1.0.6-30.el7_2.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID f4a80eb5: NOKEY[0m
+[0;32m    virtualbox-iso: Public key for NetworkManager-libnm-1.0.6-30.el7_2.x86_64.rpm is not installed[0m
+[0;32m    virtualbox-iso: --------------------------------------------------------------------------------[0m
+[0;32m    virtualbox-iso: Total                                              9.0 MB/s | 100 MB  00:11[0m
+[0;32m    virtualbox-iso: Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7[0m
+[0;32m    virtualbox-iso: Importing GPG key 0xF4A80EB5:[0m
+[0;32m    virtualbox-iso: Userid     : "CentOS-7 Key (CentOS 7 Official Signing Key) <security@centos.org>"[0m
+[0;32m    virtualbox-iso: Fingerprint: 6341 ab27 53d7 8a78 a7c2 7bb1 24c6 a8a7 f4a8 0eb5[0m
+[0;32m    virtualbox-iso: Package    : centos-release-7-2.1511.el7.centos.2.10.x86_64 (@anaconda)[0m
+[0;32m    virtualbox-iso: From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7[0m
+[0;32m    virtualbox-iso: Running transaction check[0m
+[0;32m    virtualbox-iso: Running transaction test[0m
+[0;32m    virtualbox-iso: Transaction test succeeded[0m
+[0;32m    virtualbox-iso: Running transaction[0m
+[0;32m    virtualbox-iso: Warning: RPMDB altered outside of yum.[0m
+[0;32m    virtualbox-iso: Updating   : 1:quota-nls-4.01-11.el7_2.1.noarch                         1/167[0m
+[0;32m    virtualbox-iso: Updating   : tzdata-2016e-1.el7.noarch                                  2/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-softokn-freebl-3.16.2.3-14.2.el7_2.x86_64              3/167[0m
+[0;32m    virtualbox-iso: Updating   : glibc-2.17-106.el7_2.6.x86_64                              4/167[0m
+[0;32m    virtualbox-iso: Updating   : glibc-common-2.17-106.el7_2.6.x86_64                       5/167[0m
+[0;32m    virtualbox-iso: Updating   : systemd-libs-219-19.el7_2.11.x86_64                        6/167[0m
+[0;32m    virtualbox-iso: Updating   : nspr-4.11.0-1.el7_2.x86_64                                 7/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-util-3.21.0-2.2.el7_2.x86_64                           8/167[0m
+[0;32m    virtualbox-iso: Updating   : libuuid-2.23.2-26.el7_2.2.x86_64                           9/167[0m
+[0;32m    virtualbox-iso: Updating   : libgudev1-219-19.el7_2.11.x86_64                          10/167[0m
+[0;32m    virtualbox-iso: Updating   : chkconfig-1.3.61-5.el7_2.1.x86_64                         11/167[0m
+[0;32m    virtualbox-iso: Updating   : iproute-3.10.0-54.el7_2.1.x86_64                          12/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-softokn-3.16.2.3-14.2.el7_2.x86_64                    13/167[0m
+[0;32m    virtualbox-iso: Updating   : procps-ng-3.3.10-5.el7_2.x86_64                           14/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:gmp-6.0.0-12.el7_1.x86_64                               15/167[0m
+[0;32m    virtualbox-iso: Updating   : krb5-libs-1.13.2-12.el7_2.x86_64                          16/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:openssl-libs-1.0.1e-51.el7_2.5.x86_64                   17/167[0m
+[0;32m    virtualbox-iso: Updating   : coreutils-8.22-15.el7_2.1.x86_64                          18/167[0m
+[0;32m    virtualbox-iso: Updating   : ca-certificates-2015.2.6-70.1.el7_2.noarch                19/167[0m
+[0;32m    virtualbox-iso: Updating   : libblkid-2.23.2-26.el7_2.2.x86_64                         20/167[0m
+[0;32m    virtualbox-iso: Updating   : libmount-2.23.2-26.el7_2.2.x86_64                         21/167[0m
+[0;32m    virtualbox-iso: Updating   : systemd-219-19.el7_2.11.x86_64                            22/167[0m
+[0;32m    virtualbox-iso: Updating   : util-linux-2.23.2-26.el7_2.2.x86_64                       23/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:device-mapper-libs-1.02.107-5.el7_2.4.x86_64            24/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:device-mapper-1.02.107-5.el7_2.4.x86_64                 25/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:device-mapper-event-libs-1.02.107-5.el7_2.4.x86_64      26/167[0m
+[0;32m    virtualbox-iso: Updating   : systemd-sysv-219-19.el7_2.11.x86_64                       27/167[0m
+[0;32m    virtualbox-iso: Updating   : rpcbind-0.2.0-33.el7_2.1.x86_64                           28/167[0m
+[0;32m    virtualbox-iso: Updating   : selinux-policy-3.13.1-60.el7_2.7.noarch                   29/167[0m
+[0;32m    virtualbox-iso: /var/tmp/rpm-tmp.duQOlL: line 1: 13679 Killed                  semodule -nB[0m
+[0;32m    virtualbox-iso: Updating   : 1:quota-4.01-11.el7_2.1.x86_64                            30/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:device-mapper-event-1.02.107-5.el7_2.4.x86_64           31/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:lvm2-libs-2.02.130-5.el7_2.4.x86_64                     32/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:grub2-tools-2.02-0.34.el7.centos.x86_64                 33/167[0m
+[0;32m    virtualbox-iso: Updating   : kpartx-0.4.9-85.el7_2.5.x86_64                            34/167[0m
+[0;32m    virtualbox-iso: Updating   : dracut-033-360.el7_2.1.x86_64                             35/167[0m
+[0;32m    virtualbox-iso: Updating   : dracut-network-033-360.el7_2.1.x86_64                     36/167[0m
+[0;32m    virtualbox-iso: Updating   : initscripts-9.49.30-1.el7_2.2.x86_64                      37/167[0m
+[0;32m    virtualbox-iso: Updating   : polkit-0.112-7.el7_2.x86_64                               38/167[0m
+[0;32m    virtualbox-iso: Updating   : cronie-anacron-1.4.11-14.el7_2.1.x86_64                   39/167[0m
+[0;32m    virtualbox-iso: Updating   : cronie-1.4.11-14.el7_2.1.x86_64                           40/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-3.21.0-9.el7_2.x86_64                                 41/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-sysinit-3.21.0-9.el7_2.x86_64                         42/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:NetworkManager-libnm-1.0.6-30.el7_2.x86_64              43/167[0m
+[0;32m    virtualbox-iso: Updating   : nss-tools-3.21.0-9.el7_2.x86_64                           44/167[0m
+[0;32m    virtualbox-iso: Updating   : python-pyudev-0.15-7.el7_2.1.noarch                       45/167[0m
+[0;32m    virtualbox-iso: Updating   : libndp-1.2-6.el7_2.x86_64                                 46/167[0m
+[0;32m    virtualbox-iso: Updating   : avahi-libs-0.6.31-15.el7_2.1.x86_64                       47/167[0m
+[0;32m    virtualbox-iso: Updating   : avahi-autoipd-0.6.31-15.el7_2.1.x86_64                    48/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:NetworkManager-1.0.6-30.el7_2.x86_64                    49/167[0m
+[0;32m    virtualbox-iso: Updating   : python-perf-3.10.0-327.22.2.el7.x86_64                    50/167[0m
+[0;32m    virtualbox-iso: Updating   : cyrus-sasl-lib-2.1.26-20.el7_2.x86_64                     51/167[0m
+[0;32m    virtualbox-iso: Updating   : openldap-2.4.40-9.el7_2.x86_64                            52/167[0m
+[0;32m    virtualbox-iso: Updating   : openssh-6.6.1p1-25.el7_2.x86_64                           53/167[0m
+[0;32m    virtualbox-iso: Updating   : libxml2-2.9.1-6.el7_2.3.x86_64                            54/167[0m
+[0;32m    virtualbox-iso: Updating   : kernel-tools-libs-3.10.0-327.22.2.el7.x86_64              55/167[0m
+[0;32m    virtualbox-iso: Updating   : libteam-1.17-6.el7_2.x86_64                               56/167[0m
+[0;32m    virtualbox-iso: Updating   : teamd-1.17-6.el7_2.x86_64                                 57/167[0m
+[0;32m    virtualbox-iso: Updating   : libtalloc-2.1.5-1.el7_2.x86_64                            58/167[0m
+[0;32m    virtualbox-iso: Updating   : 32:bind-license-9.9.4-29.el7_2.3.noarch                   59/167[0m
+[0;32m    virtualbox-iso: Updating   : 32:bind-libs-lite-9.9.4-29.el7_2.3.x86_64                 60/167[0m
+[0;32m    virtualbox-iso: Updating   : libtevent-0.9.26-1.el7_2.1.x86_64                         61/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:NetworkManager-team-1.0.6-30.el7_2.x86_64               62/167[0m
+[0;32m    virtualbox-iso: Updating   : kernel-tools-3.10.0-327.22.2.el7.x86_64                   63/167[0m
+[0;32m    virtualbox-iso: Updating   : openssh-server-6.6.1p1-25.el7_2.x86_64                    64/167[0m
+[0;32m    virtualbox-iso: Updating   : openssh-clients-6.6.1p1-25.el7_2.x86_64                   65/167[0m
+[0;32m    virtualbox-iso: Updating   : sudo-1.8.6p7-17.el7_2.x86_64                              66/167[0m
+[0;32m    virtualbox-iso: Updating   : tuned-2.5.1-4.el7_2.3.noarch                              67/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:NetworkManager-tui-1.0.6-30.el7_2.x86_64                68/167[0m
+[0;32m    virtualbox-iso: Installing : kernel-3.10.0-327.22.2.el7.x86_64                         69/167[0m
+[0;32m    virtualbox-iso: Updating   : kexec-tools-2.0.7-38.el7_2.1.x86_64                       70/167[0m
+[0;32m    virtualbox-iso: Updating   : dracut-config-rescue-033-360.el7_2.1.x86_64               71/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:grub2-2.02-0.34.el7.centos.x86_64                       72/167[0m
+[0;32m    virtualbox-iso: Updating   : rdma-7.2_4.1_rc6-2.el7.noarch                             73/167[0m
+[0;32m    virtualbox-iso: Updating   : 7:lvm2-2.02.130-5.el7_2.4.x86_64                          74/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:nfs-utils-1.3.0-0.21.el7_2.1.x86_64                     75/167[0m
+[0;32m    virtualbox-iso: Updating   : selinux-policy-devel-3.13.1-60.el7_2.7.noarch             76/167[0m
+[0;32m    virtualbox-iso: Updating   : selinux-policy-targeted-3.13.1-60.el7_2.7.noarch          77/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:openssl-1.0.1e-51.el7_2.5.x86_64                        78/167[0m
+[0;32m    virtualbox-iso: Updating   : logrotate-3.8.6-7.el7_2.x86_64                            79/167[0m
+[0;32m    virtualbox-iso: Updating   : 1:mariadb-libs-5.5.47-1.el7_2.x86_64                      80/167[0m
+[0;32m    virtualbox-iso: Updating   : libssh2-1.4.3-10.el7_2.1.x86_64                           81/167[0m
+[0;32m    virtualbox-iso: Updating   : gnutls-3.3.8-14.el7_2.x86_64                              82/167[0m
+[0;32m    virtualbox-iso: Updating   : pcre-8.32-15.el7_2.1.x86_64                               83/167[0m
+[0;32m    virtualbox-iso: /var/tmp/rpm-tmp.UP1TvS: line 1: 14524 Killed                  semodule -nB[0m

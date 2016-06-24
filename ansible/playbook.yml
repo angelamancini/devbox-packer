@@ -1,0 +1,22 @@
+---
+- name: Provision Dev Box
+  hosts: all
+  become: yes
+
+  vars_files:
+    - vars/git.yml
+    - vars/ruby.yml
+    - vars/postgresql.yml
+    - vars/mysql.yml
+    - vars/redis.yml
+
+  pre_tasks:
+    - name: run ansible galaxy
+      local_action: command ansible-galaxy install -r dependencies.yml -p roles/ --ignore-errors
+
+  roles:
+    - geerlingguy.git
+    - erumble.ruby
+    - erumble.postgresql
+    - geerlingguy.mysql
+    - geerlingguy.redis

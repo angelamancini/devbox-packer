@@ -1,0 +1,7 @@
+syntax on
+
+" Always set line numbers:
+set number
+
+" Always wrap long lines:
+set wrap
