@@ -13,3 +13,7 @@ ruby_additional_dependencies:
   - readline-devel
   - libyaml-devel
   - libffi-devel
+  - tcl
+  - tcl-devel
+  - tk
+  - tk-devel
