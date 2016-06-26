@@ -10,10 +10,8 @@
     - vars/redis.yml
 
   pre_tasks:
-    - name: Install the MySQL Community Edition repository
-      shell: rpm -Uvh https://dev.mysql.com/get/mysql57-community-release-el7-7.noarch.rpm
-      args:
-        creates: /etc/yum.repos.d/mysql-community.repo
+    - name: run ansible galaxy
+      local_action: command ansible-galaxy install -r dependencies.yml -p roles/ --ignore-errors
 
   roles:
     - geerlingguy.git
