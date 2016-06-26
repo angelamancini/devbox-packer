@@ -69,6 +69,26 @@
   ],
   "provisioners": [
     {
+      "type": "file",
+      "source": "files/custom_prompt.sh",
+      "destination": "/tmp/custom_prompt.sh"
+    },
+    {
+      "type": "file",
+      "source": "files/.tmux.conf",
+      "destination": "/tmp/.tmux.conf"
+    },
+    {
+      "type": "file",
+      "source": "files/.vimrc",
+      "destination": "/tmp/.vimrc"
+    },
+    {
+      "type": "file",
+      "source": "files/codeschool.vim",
+      "destination": "/tmp/codeschool.vim"
+    },
+    {
       "environment_vars": [
         "HOME_DIR=/home/vagrant",
         "http_proxy={{user `http_proxy`}}",
@@ -83,14 +103,23 @@
         "scripts/common/vmtools.sh",
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh",
-        "scripts/install/install-epel.sh",
-        "scripts/install/install_git.sh",
+        "scripts/install/install_epel.sh",
+        "scripts/install/install_ansible.sh",
         "scripts/install/install_tmux.sh",
-        "scripts/install/install_psql.sh",
-        "scripts/install/install_rvm_and_ruby.sh",
         "scripts/install/final_touches.sh"
       ],
       "type": "shell"
+    },
+    {
+      "type": "ansible-local",
+      "playbook_file": "ansible/playbook.yml",
+      "playbook_dir": "ansible/",
+      "role_paths": [
+        "ansible/roles/erumble.postgresql",
+        "ansible/roles/geerlingguy.git",
+        "ansible/roles/geerlingguy.redis",
+        "ansible/roles/rvm_io.rvm1-ruby"
+      ]
     }
   ],
   "post-processors": [

@@ -1,0 +1,11 @@
+# galaxy_roles.yml
+# use the command `ansible-galaxy install -r dependencies.yml [-p <path/to/roles/>]` to install these roles :D
+
+# roles from ansible galaxy https://galaxy.ansible.com
+- src: geerlingguy.git
+- src: geerlingguy.redis
+- src: rvm_io.rvm1-ruby
+
+# roles from github
+- src: https://github.com/erumble/ansible-role-postgresql
+  name: erumble.postgresql

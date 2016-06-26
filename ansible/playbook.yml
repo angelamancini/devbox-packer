@@ -1,0 +1,22 @@
+---
+- name: Provision Dev Box
+  hosts: all
+  become: yes
+
+  vars_files:
+    - vars/git.yml
+    - vars/rvm1-ruby.yml
+    - vars/postgresql.yml
+    - vars/redis.yml
+
+  pre_tasks:
+    - name: Install the MySQL Community Edition repository
+      shell: rpm -Uvh https://dev.mysql.com/get/mysql57-community-release-el7-7.noarch.rpm
+      args:
+        creates: /etc/yum.repos.d/mysql-community.repo
+
+  roles:
+    - geerlingguy.git
+    - rvm_io.rvm1-ruby
+    - erumble.postgresql
+    - geerlingguy.redis
