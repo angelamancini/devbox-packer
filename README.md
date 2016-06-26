@@ -15,6 +15,6 @@ Tested with:
 
 [Ansible](https://www.ansible.com) v2.0.0.2
 
-[VirtualBox](https://www.virtualbox.org/) v5.0.20
+[VirtualBox](https://www.virtualbox.org/) v5.0.22
 
 [Vagrant](https://vagrantup.com/) v1.8.1

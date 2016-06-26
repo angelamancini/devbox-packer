@@ -74,6 +74,13 @@
       "destination": "/tmp/custom_prompt.sh"
     },
     {
+      "type": "shell",
+      "execute_command": "sudo {{.Vars}} sh {{.Path}}",
+      "inline": [
+        "cp /tmp/custom_prompt.sh /etc/profile.d/custom_prompt.sh"
+      ]
+    },
+    {
       "type": "file",
       "source": "files/.tmux.conf",
       "destination": "/tmp/.tmux.conf"
@@ -103,7 +110,6 @@
         "scripts/common/vmtools.sh",
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh",
-        "scripts/install/install_epel.sh",
         "scripts/install/install_ansible.sh",
         "scripts/install/install_tmux.sh",
         "scripts/install/final_touches.sh"
