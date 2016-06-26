@@ -1,4 +1,8 @@
 ---
+mysql_enablerepo: "mysql55-community"
+mysql_packages:
+  - mysql-community-client
+  - mysql-community-server
 mysql_root_password: supersecurepassword
 mysql_databases:
   - name: vagrant

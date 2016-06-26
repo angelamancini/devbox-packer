@@ -17,3 +17,5 @@ ruby_additional_dependencies:
   - tcl-devel
   - tk
   - tk-devel
+  - openssl
+  - openssl-devel

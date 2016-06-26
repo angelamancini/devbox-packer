@@ -1,5 +1,7 @@
 *.DS_Store
 packer_cache
 ansible/roles/
-packer_log
 packer-centos-*/
+.vagrant/
+packer_virtualbox-iso*
+Vagrantfile

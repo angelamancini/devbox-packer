@@ -75,13 +75,18 @@
     },
     {
       "type": "file",
-      "source": "files/my-tmux.conf",
-      "destination": "/tmp/my-tmux.conf"
+      "source": "files/.tmux.conf",
+      "destination": "/tmp/.tmux.conf"
     },
     {
       "type": "file",
-      "source": "files/my-vimrc",
-      "destination": "/tmp/my-vimrc"
+      "source": "files/.vimrc",
+      "destination": "/tmp/.vimrc"
+    },
+    {
+      "type": "file",
+      "source": "files/codeschool.vim",
+      "destination": "/tmp/codeschool.vim"
     },
     {
       "environment_vars": [
@@ -108,7 +113,14 @@
     {
       "type": "ansible-local",
       "playbook_file": "ansible/playbook.yml",
-      "playbook_dir": "ansible/"
+      "playbook_dir": "ansible/",
+      "role_paths": [
+        "ansible/roles/erumble.postgresql",
+        "ansible/roles/geerlingguy.git",
+        "ansible/roles/geerlingguy.mysql",
+        "ansible/roles/geerlingguy.redis",
+        "ansible/roles/rvm_io.rvm1-ruby"
+      ]
     }
   ],
   "post-processors": [

@@ -5,18 +5,18 @@
 
   vars_files:
     - vars/git.yml
-    - vars/ruby.yml
+    - vars/rvm1-ruby.yml
     - vars/postgresql.yml
-    - vars/mysql.yml
     - vars/redis.yml
 
   pre_tasks:
-    - name: run ansible galaxy
-      local_action: command ansible-galaxy install -r dependencies.yml -p roles/ --ignore-errors
+    - name: Install the MySQL Community Edition repository
+      shell: rpm -Uvh https://dev.mysql.com/get/mysql57-community-release-el7-7.noarch.rpm
+      args:
+        creates: /etc/yum.repos.d/mysql-community.repo
 
   roles:
     - geerlingguy.git
-    - erumble.ruby
+    - rvm_io.rvm1-ruby
     - erumble.postgresql
-    - geerlingguy.mysql
     - geerlingguy.redis

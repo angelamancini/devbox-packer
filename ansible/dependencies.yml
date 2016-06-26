@@ -3,11 +3,9 @@
 
 # roles from ansible galaxy https://galaxy.ansible.com
 - src: geerlingguy.git
-- src: geerlingguy.mysql
 - src: geerlingguy.redis
+- src: rvm_io.rvm1-ruby
 
 # roles from github
-- src: https://github.com/erumble/ansible-role-ruby
-  name: erumble.ruby
 - src: https://github.com/erumble/ansible-role-postgresql
   name: erumble.postgresql
