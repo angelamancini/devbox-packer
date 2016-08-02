@@ -6,6 +6,5 @@ wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-$VER.noarch.rp
 rpm -ivh epel-release-$VER.noarch.rpm
 
 echo 'Install Ansible'
-yum -y update
 yum -y install ansible
 ansible --version

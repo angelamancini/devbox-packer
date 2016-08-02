@@ -2,8 +2,10 @@ postgresql_admin_user: "postgres"
 postgresql_default_auth_method: "trust"
 
 postgresql_databases:
-  - name: vagrant
-    hstore: no
+  - name: development
+    hstore: yes
+  - name: test
+    hstore: yes
 
 postgresql_users:
   - name: vagrant
@@ -12,17 +14,30 @@ postgresql_users:
 
 postgresql_user_privileges:
   - name: vagrant
-    db: vagrant
+    db: development
+    priv: "ALL"
+  - name: vagrant
+    db: test
     priv: "ALL"
 
 postgresql_user_object_privileges:
-  - name: vagrant   # user name
-    db: vagrant     # database
-    type: table            # type of db object on which to set privilege
-    priv: ALL              # list of privileges (e.g. INSERT,SELECT)
-    objs: 'ALL_IN_SCHEMA'  # list of db objects on which to set privilege
-  - name: vagrant   # user name
-    db: vagrant     # database
-    type: sequence         # type of db object on which to set privilege
-    priv: ALL              # list of privileges (e.g. INSERT,SELECT)
-    objs: 'ALL_IN_SCHEMA'  # list of db objects on which to set privilege
+  - name: vagrant
+    db: development
+    type: table
+    priv: ALL
+    objs: 'ALL_IN_SCHEMA'
+  - name: vagrant
+    db: test
+    type: table
+    priv: ALL
+    objs: 'ALL_IN_SCHEMA'
+  - name: vagrant
+    db: development
+    type: sequence
+    priv: ALL
+    objs: 'ALL_IN_SCHEMA'
+  - name: vagrant
+    db: test
+    type: sequence
+    priv: ALL
+    objs: 'ALL_IN_SCHEMA'

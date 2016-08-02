@@ -7,7 +7,6 @@
     - vars/git.yml
     - vars/rvm1-ruby.yml
     - vars/postgresql.yml
-    - vars/redis.yml
 
   pre_tasks:
     - name: run ansible galaxy
@@ -17,4 +16,3 @@
     - geerlingguy.git
     - rvm_io.rvm1-ruby
     - erumble.postgresql
-    - geerlingguy.redis

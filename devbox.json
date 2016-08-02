@@ -112,6 +112,9 @@
         "scripts/common/minimize.sh",
         "scripts/install/install_ansible.sh",
         "scripts/install/install_tmux.sh",
+        "scripts/install/install_mysql.sh",
+        "scripts/install/install_redis.sh",
+        "scripts/install/install_docker.sh",
         "scripts/install/final_touches.sh"
       ],
       "type": "shell"
