@@ -1,7 +1,7 @@
 #!/bin/bash -eux
 
 cd /tmp
-wget ftp://195.220.108.108/linux/remi/enterprise/7/remi/x86_64/redis-3.2.1-2.el7.remi.x86_64.rpm
-yum localinstall -y redis-3.2.1-2.el7.remi.x86_64.rpm
+wget ftp://fr2.rpmfind.net/linux/epel/7/ppc64/r/rubygem-redis-3.2.1-2.el7.noarch.rpm
+yum localinstall -y rubygem-redis-3.2.1-2.el7.noarch.rpm
 
 systemctl start redis.service
